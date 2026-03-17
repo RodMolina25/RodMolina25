@@ -1,16 +1,22 @@
-## Hi there 👋
+ Hola 👋
 
-<!--
-**RodMolina25/RodMolina25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Presentándome soy Rodrigo😉 un chico el cual quiere aprender sobre programación y demás relacionados
+con la carrera de ingeniería en informática💻⭐. Me encuentro estudiando en la Universidad Centroamericana
+José Simeon Cañas (uca)📚 espero dar lo mejor de mi para superar mis metas y objetivos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Datos sobre mi:
+
+-Poseo un nivel medio/avanzado del inglés👍
+
+-Me considero alguien flexible y tolerante👀
+
+-Me gusta la tecnología y sus relacionados😁
+
+-Naci en 2008🫡
+
+
+Y poco más espero realmente tener una gran formación durante estos 5 años de carrera, mejorando mi ser,
+hábitos y el como me relaciono con los demás y así volverme un gran profesional.😃
+
+
